@@ -1,0 +1,13 @@
+names:
+- human
+- vehicle
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: human-detection-q0nit
+  url: https://universe.roboflow.com/capricon/human-detection-q0nit/dataset/2
+  version: 2
+  workspace: capricon
+test: ../test/images
+train: Human-Detection-2/train/images
+val: Human-Detection-2/valid/images
