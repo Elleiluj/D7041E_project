@@ -8,6 +8,6 @@ Julie Labbé jullab-3@student.ltu.se
 
 Link to data used: https://universe.roboflow.com/capricon/human-detection-q0nit
 
-Link to the recording:
+Link to the recording: https://youtu.be/g4e6FNCsP-I
 
 Note: this project is not compatible with python interpreter above 3.9
