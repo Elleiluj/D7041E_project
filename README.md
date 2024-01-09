@@ -2,7 +2,7 @@
 ## Human Real-time Detection
 **By group 4**
 
-Laura Bermejo lauritaabm19@gmail.com <br>
+Laura Bermejo lauber-3@student.ltu.se <br>
 Lina Borg borlin-3@student.ltu.se <br>
 Julie Labbé jullab-3@student.ltu.se
 
