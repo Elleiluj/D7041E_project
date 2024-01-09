@@ -2,8 +2,8 @@
 ## Human Real-time Detection
 **By group 4**
 
-Laura Bermejo <br>
-Lina Borg <br>
+Laura Bermejo lauritaabm19@gmail.com <br>
+Lina Borg borlin-3@student.ltu.se <br>
 Julie Labbé jullab-3@student.ltu.se
 
 Link to data used: https://universe.roboflow.com/capricon/human-detection-q0nit
